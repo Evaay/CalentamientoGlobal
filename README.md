@@ -5,6 +5,8 @@ Para esta práctica de visualización de datos se ha decidido representar la evo
 
 Enlace al vídeo: https://youtu.be/dHcIeQllVro
 
+Enlace al codesandbox: https://g8hj3p.csb.app/
+
 ---
 
 ## Fuentes de datos utilizadas

@@ -11,10 +11,12 @@ Enlace al vídeo: https://youtu.be/dHcIeQllVro
 
 ### **1. Temperaturas medias anuales por país**
 Los datos originales eran diarios, pero debido al gran tamaño del archivo y limitaciones de rendimiento, se filtraron previamente para obtener la **temperatura media anual** por país.
+
 Fuente de recursos: https://ourworldindata.org/grapher/average-monthly-surface-temperature
 
 ### **2. Coordenadas geográficas en GeoJSON**
 El archivo GeoJSON contiene las fronteras de todos los países en forma de polígonos definidos por latitudes y longitudes.
+
 Fuente de recursos: https://geojson-maps.kyd.au/?utm_source=self&utm_medium=redirect
 
 ---

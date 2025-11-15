@@ -24,7 +24,7 @@ let manual = false;
 const gui = new GUI();
 const Functions = {
 	automatic: true,
-	seconds: 1
+	seconds: 1000
 };
 
 const ranges = [
@@ -186,9 +186,6 @@ function init() {
 
 function loadGeoJSON() {
   const loader = new THREE.FileLoader();
-  const tempLoader = new THREE.FileLoader();
-    tempLoader.load("src/temepratura.csv", function(text) {
-    });
 
   loader.load("src/custom.geo.json", function (data) {
     const geoData = JSON.parse(data);

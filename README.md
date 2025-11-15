@@ -10,7 +10,7 @@ Enlace al vídeo: https://youtu.be/dHcIeQllVro
 ## Fuentes de datos utilizadas
 
 ### **1. Temperaturas medias anuales por país**
-Los datos originales eran diarios, pero debido al gran tamaño del archivo y limitaciones de rendimiento, se filtraron previamente para obtener la **temperatura media anual** por país.
+Los datos originales eran diarios, pero debido al gran tamaño del archivo y ciertas limitaciones del codesandbox, se filtraron previamente para obtener la **temperatura media anual** por país.
 
 Fuente de recursos: https://ourworldindata.org/grapher/average-monthly-surface-temperature
 
